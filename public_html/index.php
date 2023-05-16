@@ -16,7 +16,7 @@
 <meta property="og:site_name" content="Mansione77 Situs Game Slot Paling Gacor hari ini, Resmi dan terpercaya"/>
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="google-site-verification" content="DR7dhivBs5U5UWu-fHTwdhwUB1viEpUKnIuhlR8dBxM" />
-<link href="https://static.nukeasset.com/assets/images/store/2022-04-10T05:09:21.559Z_Favicon.png" rel="shortcut icon" type="image/x-icon">
+<link href="https://i.ibb.co/BV57k6T/mansione77-favicon.png" rel="shortcut icon" type="image/x-icon">
 <style amp-runtime i-amphtml-version="012107240354000">
         html.i-amphtml-fie {
             height: 100%!important;
@@ -1562,7 +1562,7 @@
 					<span itemscope="itemscope" itemtype="https://schema.org/Brand">
 						<a itemprop="url" href="https://isbslot388.com/" title="slot">
 							<a href="https://isbslot388.com/" title="slot">
-								<amp-img src="https://static.nukeasset.com/assets/images/store/2022-04-16T05:04:15.302Z_ISB388.png" alt="SLOT" width="250" height="80" layout="responsive"/>
+								<amp-img src="https://i.ibb.co/swrWF7n/mansione77.png" alt="SLOT" width="250" height="80" layout="responsive"/>
 							</a>
 							<meta itemprop="name" content="slot">
 						</a>
