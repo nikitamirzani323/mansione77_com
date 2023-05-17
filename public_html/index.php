@@ -600,7 +600,7 @@
             text-align: center
         }
         body {
-            background-color: #020202
+            background-color: #454545
         }
         .container {
             padding-right: 15px;
@@ -1541,9 +1541,9 @@
 			<div class="col-md-12">
 				<div class="logomobi acenter">
 					<span itemscope="itemscope" itemtype="https://schema.org/Brand">
-					<a itemprop="url" href="https://isbslot388.com/" title="slot">
-						<a href="https://isbslot388.com/" title="slot">
-							<amp-img src="https://static.nukeasset.com/assets/images/store/2022-04-16T05:04:15.302Z_ISB388.png" alt="SLOT" width="145" height="55"/>
+					<a itemprop="url" href="https://mansione77.org/" title="slot">
+						<a href="https://mansione77.org/" title="slot">
+							<amp-img src="https://static.nukeasset.com/assets/images/store/2023-05-17T11:09:35.384Z_gif_1.gif" alt="SLOT" width="145" height="55"/>
 						</a>
 						<meta itemprop="name" content="slot">
 					</a>
@@ -1560,9 +1560,9 @@
 			<div class="col-md-4">
 				<div class="logo acenter">
 					<span itemscope="itemscope" itemtype="https://schema.org/Brand">
-						<a itemprop="url" href="https://isbslot388.com/" title="slot">
-							<a href="https://isbslot388.com/" title="slot">
-								<amp-img src="https://i.ibb.co/swrWF7n/mansione77.png" alt="SLOT" width="250" height="80" layout="responsive"/>
+						<a itemprop="url" href="https://mansione77.org/" title="slot">
+							<a href="https://mansione77.org/" title="slot">
+								<amp-img src="https://static.nukeasset.com/assets/images/store/2023-05-17T11:09:35.384Z_gif_1.gif" alt="SLOT" width="250" height="80" layout="responsive"/>
 							</a>
 							<meta itemprop="name" content="slot">
 						</a>
@@ -1573,17 +1573,17 @@
 			<div class="col-md-8">
 				<div class="row logform">
 					<div class="col-xs-6">
-						<a href="https://isb388slot.com/register?ref=4bdvguc" target="_blank" rel="nofollow noreferrer"><span class="tron-login">LOGIN</span></a>
+						<a href="https://mansione77.org/invite/mcdhwjl" target="_blank" rel="nofollow noreferrer"><span class="tron-login">LOGIN</span></a>
 					</div>
 					<div class="col-xs-6">
-						<a href="https://isb388slot.com/register?ref=4bdvguc" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">DAFTAR</span></a>
+						<a href="https://mansione77.org/invite/mcdhwjl" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">DAFTAR</span></a>
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-12 mt-3">
-				<a href="https://isb388slot.com/register?ref=4bdvguc"><button type="login" class="btn btn-daf">Bergabung & Dapatkan Bonus Menarik Dari Slot Gacor</button></a>
+				<a href="https://mansione77.org/invite/mcdhwjl"><button type="login" class="btn btn-daf">Bergabung & Dapatkan Bonus Menarik Dari Slot Gacor</button></a>
 			</div>
 		</div>
 	</div>
@@ -1591,9 +1591,11 @@
 <div class="container">
 	<div class="item-8 item-xs-12 m-b-1 slider-area owl-carousel">
 		<amp-carousel width="640" height="250" layout="responsive" type="slides" autoplay delay="2000">
-		<amp-img src="https://static.nukeasset.com/assets/images/store/2023-03-02T08:35:54.479Z_HD_HOME_BANNER.png" width="640" height="360" layout="responsive" alt="SLOT"></amp-img>
-		<amp-img src="https://static.nukeasset.com/assets/images/store/2023-03-02T15:02:04.146Z_3.png" width="640" height="360" layout="responsive" alt="SLOT"></amp-img>
-		<amp-img src="https://static.nukeasset.com/assets/images/store/2023-03-02T15:03:17.591Z_2.png" width="640" height="360" layout="responsive" alt="SLOT"></amp-img>
+		<amp-img src="https://static.nukeasset.com/assets/images/store/2023-05-17T11:28:55.763Z_bonus_free_bet_500k_1.png" width="640" height="360" layout="responsive" alt="SLOT"></amp-img>
+		<amp-img src="https://static.nukeasset.com/assets/images/store/2023-05-17T11:33:31.749Z_welcome_bonus_1.png" width="640" height="360" layout="responsive" alt="SLOT"></amp-img>
+		<amp-img src="https://static.nukeasset.com/assets/images/store/2023-05-17T11:34:09.322Z_bonus_redp_20_1.png" width="640" height="360" layout="responsive" alt="SLOT"></amp-img>
+		<amp-img src="https://static.nukeasset.com/assets/images/store/2023-05-17T11:34:19.415Z_bonus_refferal_su_1.png" width="640" height="360" layout="responsive" alt="SLOT"></amp-img>
+		<amp-img src="https://static.nukeasset.com/assets/images/store/2023-02-23T10:10:05.884Z_play_win_03060529_tournament_1362x512_id.png" width="640" height="360" layout="responsive" alt="SLOT"></amp-img>
 		</amp-carousel>
 	</div>
 </div>
