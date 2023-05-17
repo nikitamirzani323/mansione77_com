@@ -1610,7 +1610,7 @@
 	<tbody>
 	<tr>
 		<td>Nama Situs:</td>
-		<td>⚡ISB388</td>
+		<td>⚡Mansione77</td>
 	</tr>
 	<tr>
 		<td>Minimal Deposit:</td>
